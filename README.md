@@ -1,6 +1,6 @@
 # Hi there, I'm Irfan Muria! 👋
 
-**Enthusiast in Software Engineering & Web Development.**
+# Enthusiast in Software Engineering & Web Development.
 ![banner-image-fullstack-web-development](https://github.com/user-attachments/assets/4b1ef81c-775d-4186-814b-24910ec857e4)
 
 ---
