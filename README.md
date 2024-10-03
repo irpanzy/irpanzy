@@ -9,7 +9,7 @@ _Enthusiast in Software Engineering & Web Development._
 - 🔭 Currently working on multiple **HTML & CSS**, **JavaScript**, **Dart**, and **PHP** projects.
 - 🌱 Always eager to learn more about **Full Stack Web Development**.
 - 💻 Passionate about creating user-friendly web applications.
-- 🎓 Studying Software Engineering at **Telkom University PurwokertO**.
+- 🎓 Studying Software Engineering at **Telkom University Purwokerto**.
 
 ---
 
@@ -41,8 +41,10 @@ _Enthusiast in Software Engineering & Web Development._
 
 ---
 
-## 🔥 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=irpanzy&show_icons=true&theme=tokyonight)
+## 🔥 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=irpanzy&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irpanzy&layout=compact&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=irpanzy&theme=monokai)
 
 ---
 
