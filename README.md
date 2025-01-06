@@ -49,7 +49,6 @@
 ---
 
 ## 📧 Let's Connect!
-- GitHub [@irpanzy](https://github.com/irpanzy)
 - Twitter [@irpannzy](https://x.com/irpannzy)
-- LinkedIn [@irfanmuria](https://www.linkedin.com/in/irfan-muria-1823b5252/) 
+- LinkedIn [@irfanmuria](https://www.linkedin.com/in/irfanmuria/) 
 - Instagram [@irfanmuriaa](https://www.instagram.com/irfanmuriaa/)
