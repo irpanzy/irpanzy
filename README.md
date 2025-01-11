@@ -19,7 +19,7 @@
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
-- **Frameworks & Libraries**:
+- **Frameworks**:
   ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat-square)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
