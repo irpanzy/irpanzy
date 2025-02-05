@@ -44,7 +44,7 @@
 ---
 
 ## 🔗 *Pinned Projects*  
-1. 🎯 [PPB_Irfan_Muria_2211104075_SE0602](https://github.com/irpanzy/PPB_Irfan_Muria_2211104075_SE0602) - *Flutter Dart Project*  
+1. 🎯 [Save-Money](https://github.com/irpanzy/Save-Money) - *Application Save Money*  
 2. 🥁 [FSW-ch2-live-coding-23-09-2024-drum-kit](https://github.com/irpanzy/FSW-ch2-live-coding-23-09-2024-drum-kit) - *JavaScript Drum Kit*  
 3. 🌐 [24001183-km7-irf-landing-page-ch1](https://github.com/irpanzy/24001183-km7-irf-landing-page-ch1) - *HTML Landing Page*
 
