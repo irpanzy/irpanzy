@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 *About Me*
+## 💡 About Me
 
 👨‍💻 Software Engineer | Fullstack Developer | Tech Enthusiast
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ *Tech Stack*
+## 🛠️ Tech Stack
 ### Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)  
@@ -43,14 +43,14 @@
 
 ---
 
-## 🔗 *Pinned Projects*  
+## 🔗 Pinned Projects
 1. 🎯 [Save-Money](https://github.com/irpanzy/Save-Money) - *Application Save Money*  
 2. 🥁 [FSW-ch2-live-coding-23-09-2024-drum-kit](https://github.com/irpanzy/FSW-ch2-live-coding-23-09-2024-drum-kit) - *JavaScript Drum Kit*  
 3. 🌐 [24001183-km7-irf-landing-page-ch1](https://github.com/irpanzy/24001183-km7-irf-landing-page-ch1) - *HTML Landing Page*
 
 ---
 
-## 📊 *GitHub Stats*
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irpanzy&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irpanzy&theme=radical" alt="GitHub Streak Stats" height="160" />
@@ -62,7 +62,7 @@
 
 ---
 
-## ✉️ *Let's Connect*
+## ✉️ Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/irfanmuria/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
