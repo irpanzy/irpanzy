@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-👨‍💻 Software Engineer | Fullstack Developer | Tech Enthusiast
+👨‍💻 Software Engineer | Fullstack Developer 
 
 🎓 Studying Software Engineering at Telkom University Purwokerto
 
