@@ -16,7 +16,6 @@
 
 💻 Passionate about creating user-friendly apps and websites
 
-
 ---
 
 ## 🛠️ Tech Stack
