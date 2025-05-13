@@ -34,6 +34,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irpanzy&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irpanzy&theme=radical" alt="GitHub Streak Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irpanzy&layout=compact&theme=radical" alt="Most Used Languages" height="160" />
 </p>
 
 <p align="center">
